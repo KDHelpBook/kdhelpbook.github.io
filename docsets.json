@@ -1,0 +1,84 @@
+{
+  "docsets": [
+    {
+      "file": "docsets/khb-authoring.khb",
+      "id": "khb-authoring",
+      "title": "Authoring KD Help Books",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "latest",
+      "streaming": true,
+      "hash": "087d9148594c1044"
+    },
+    {
+      "file": "docsets/khb-internals.khb",
+      "id": "khb-internals",
+      "title": "KD Help Book Internals",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "latest",
+      "streaming": true,
+      "hash": "97e5987cd2907322"
+    },
+    {
+      "file": "docsets/khb-publishing.khb",
+      "id": "khb-publishing",
+      "title": "Publishing KD Help Books",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "latest",
+      "streaming": true,
+      "hash": "d3f0ae302fa2fad5"
+    },
+    {
+      "file": "docsets/khb-registry.khb",
+      "id": "khb-registry",
+      "title": "KD Help Book Registry",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "latest",
+      "streaming": true,
+      "hash": "9e8923286e3f8bdf"
+    },
+    {
+      "file": "docsets/khb-authoring-v0.0.3.khb",
+      "id": "khb-authoring-v0.0.3",
+      "title": "Authoring KD Help Books",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "0.0.3",
+      "streaming": true,
+      "hash": "d78d0474756c9a04"
+    },
+    {
+      "file": "docsets/khb-internals-v0.0.3.khb",
+      "id": "khb-internals-v0.0.3",
+      "title": "KD Help Book Internals",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "0.0.3",
+      "streaming": true,
+      "hash": "9bbfc80b4c33eaca"
+    },
+    {
+      "file": "docsets/khb-publishing-v0.0.3.khb",
+      "id": "khb-publishing-v0.0.3",
+      "title": "Publishing KD Help Books",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "0.0.3",
+      "streaming": true,
+      "hash": "2c4a519a9b916933"
+    },
+    {
+      "file": "docsets/khb-registry-v0.0.3.khb",
+      "id": "khb-registry-v0.0.3",
+      "title": "KD Help Book Registry",
+      "language": "en",
+      "collection": "khb-docs",
+      "version": "0.0.3",
+      "streaming": true,
+      "hash": "0a2bb5f35521529d"
+    }
+  ]
+}
